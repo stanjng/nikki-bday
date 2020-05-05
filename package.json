@@ -1,6 +1,6 @@
 {
-  "name": "bday-nikki",
-  "homepage": "https://stanjng.github.io/bday-nikki",
+  "name": "nikki-bday",
+  "homepage": "https://stanjng.github.io/nikki-bday",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
